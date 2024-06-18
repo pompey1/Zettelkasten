@@ -1,6 +1,6 @@
 202406190053
 Status: #idea
-Tags: [[蓝图]] [[编程]]
+Tags: [[蓝图]]
 # Event 和 Function
 虽然在 C++ 层面上，Event 和 Function 本质上都是一个成员 UFunction，但是在蓝图层面上，他们是不同的两个概念
 
