@@ -11,7 +11,14 @@
       "query": "tag:#idea  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 5165255
+      }
+    },
+    {
+      "query": "tag:#moc  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277575,
+  "scale": 2.9030989544097023,
   "close": false
 }

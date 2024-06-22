@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "附件",
   "newFileLocation": "folder",
-  "newFileFolderPath": "卡片盒"
+  "newFileFolderPath": "卡片盒",
+  "alwaysUpdateLinks": true
 }
