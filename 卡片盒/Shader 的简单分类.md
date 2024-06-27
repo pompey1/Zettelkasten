@@ -1,8 +1,6 @@
 202406270032
 Status: #idea
-Tags: [[美术]]
-# Shader 的简单分类
-
+Tags: [[美术]] [[渲染]]
 # Surface Properties (自定义)
 - Base Color
 - Reflectance
