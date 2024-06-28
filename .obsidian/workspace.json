@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f66758cc0a8c356",
+        "id": "2bcb162bc6d416fd",
         "type": "tabs",
         "children": [
           {
-            "id": "22271ce1201fb446",
+            "id": "7f53fae494358b14",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "附件/PBR 扫盲.png"
+                "file": "卡片盒/常用的材质编辑器节点.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/PBR 扫盲.png",
+                "file": "卡片盒/常用的材质编辑器节点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/PBR 扫盲.png",
+                "file": "卡片盒/常用的材质编辑器节点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/PBR 扫盲.png"
+                "file": "卡片盒/常用的材质编辑器节点.md"
               }
             }
           }
@@ -144,14 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "22271ce1201fb446",
+  "active": "7f53fae494358b14",
   "lastOpenFiles": [
-    "卡片盒/PBR 扫盲.md",
-    "卡片盒/Shader 的简单分类.md",
     "卡片盒/SLUA 框架总结.md",
-    "卡片盒/光照类别.md",
-    "附件/PBR 扫盲.png",
+    "卡片盒/Shader 的简单分类.md",
+    "卡片盒/PBR 扫盲.md",
+    "卡片盒/FlipFlop.md",
     "卡片盒/Event 和 Function.md",
+    "卡片盒/资源加载.md",
+    "卡片盒/GetOwner 和 GetOuter.md",
+    "卡片盒/GC.md",
+    "卡片盒/常用的材质编辑器节点.md",
+    "模板/Dictionary.md",
+    "模板/Idea.md",
+    "模板/Moc.md",
+    "附件/PBR 扫盲.png",
+    "卡片盒/光照类别.md",
     "文献引用/未命名.md",
     "卡片盒/美术.md",
     "卡片盒/柯里化 Currying.md",
@@ -160,21 +170,14 @@
     "卡片盒/Texture Graph.md",
     "卡片盒/AnimMontage.md",
     "卡片盒/ESlateVisibility.md",
-    "卡片盒/FlipFlop.md",
     "卡片盒/ActionRPG 中的连招系统.md",
     "卡片盒/ActionRPG 中的 GameplayEffect 流程.md",
-    "卡片盒/资源加载.md",
     "卡片盒/蓝图.md",
-    "卡片盒/GetOwner 和 GetOuter.md",
     "卡片盒/GCObject.md",
     "卡片盒/蓝图调试器.md",
-    "卡片盒/1.md",
-    "模板/Moc.md",
-    "卡片盒/GC.md",
     "附件/GameplayEvent.png",
     "附件/AnimMontage_1.png",
     "附件/SLUA 框架总结.png",
-    "模板/Idea.md",
     "附件/AnimMontage_2.png",
     "卡片盒/附件/企业微信截图_17186204487874 1.png",
     "卡片盒/附件/企业微信截图_17186204487874.png",
