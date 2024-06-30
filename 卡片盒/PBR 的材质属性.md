@@ -1,6 +1,6 @@
 202406272152
-Status: #idea
-Tags: [[美术]] [[渲染]] [[PBR]]
+Status: #dictionary 
+Tags: [[材质]]
 # 光照类别
 入射光可以分为 Direct 和 Indrect 两种
 出射光可以分为 Specular 和 Diffuse 两种
@@ -21,6 +21,10 @@ AO 也是材质编辑器中的引脚，一般在建模软件中烘焙出贴图�
 # Surface Properties
 ## Base Color
 现实中的材质 sRGB 值往往是在 20~240 之间，粗糙的表面最低值会高 50 左右
+
+> [!Warning] Warning
+> 注意，Base Color 只有前三个通道是有效的，alpha 通道的值 Base Color 会直接忽略
+
 ## Normal
 永远不要手绘法线贴图，用高模烘焙低模流程程序化制作法线贴图
 ## Specular（非金属专用引脚）
@@ -37,7 +41,7 @@ AO 也是材质编辑器中的引脚，一般在建模软件中烘焙出贴图�
 - Metallic 参数为 1 时（完全金属），**BaseColor 代表 0 到 1 的反射计算乘数，而 Specular 节点直接禁用**，具体原因见参考文章[金属，塑料，傻傻分不清楚 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/21961722)
 - **Metallic Map** 一般不会考虑 0 到 1 之间的中间值，不是 0 就是 1
 - 所有金属的 BaseColor (前文解释过了) sRGB 值都在 180 以上
-![[PBR 扫盲.png]]
+![[PBR 的材质属性.png]]
 
 ---
 # References
