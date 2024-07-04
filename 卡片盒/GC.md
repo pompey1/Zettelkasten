@@ -1,6 +1,6 @@
 202406212309
 Status: #moc
-Tags:
+Tags: [[内存管理]]
 # GC
 
 ---

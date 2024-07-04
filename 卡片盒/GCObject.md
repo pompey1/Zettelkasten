@@ -1,6 +1,6 @@
 202406191107
 Status: #idea
-Tags: [[内存管理]] [[GC]]
+Tags:  [[GC]]
 # GCObject
 1. 存在意义：开门见山，GCObject 存在的意义是为了避免非 UObject 对象的 UObject 成员被错误回收
 2. 我们都知道非 UObject 对象是不会被 UE 的 GC 系统识别和追踪的，所以他的 UObject 成员对象也无法被追踪到这一层被引用关系，这就会导致 UObject 被错误的回收
