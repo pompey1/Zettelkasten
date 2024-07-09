@@ -2,7 +2,7 @@
 Status: #idea
 Tags: [[AI]]
 # Navmesh
-# 应用
+## 应用
 Navmesh 在引擎中的 Gameplay 的应用需要两个 Actor: 1. Navmesh Bounds Volumn 2. Recast Navmesh .还有诸如 NavMesh Modifier 的 Actor 能为寻路条件提供更加灵活的调整，暂时按下不表
 ## Navmesh Bounds Volumn
 1. 根据环境的几何信息烘焙出 Navigation Mesh （凸多边形集），之后寻路算法会以这个凸多边形为节点

@@ -1,7 +1,7 @@
 202406291936
 Status: #idea
-Tags: [[Hack]] [[材质]]
-# Custom Node 技巧
+Tags: [[材质]]
+# CustomNode 技巧
 在材质编辑器中输入
 ``` c++
 retunr 1
