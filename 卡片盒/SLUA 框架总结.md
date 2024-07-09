@@ -2,7 +2,7 @@
 Status: #idea
 Tags: [[热更新]] [[LUA]]
 # Slua 框架总结
-![[SLUA 框架总结.png]]
+![[Slua 框架总结.png]]
 
 ---
 # References
