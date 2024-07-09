@@ -1,6 +1,6 @@
 202406202053
 Status: #idea
-Tags: [[动画]] [[资产]]
+Tags: [[动画]] [[Assets 资产]]
 # AnimMontage
 ## UAnimMontage 和 FAnimMontageInstance
 UAnimMontage 对象是 Content 中的资产，FAnimMontangeInstance 是 AnimInstance 在播放 Montage 时根据 UAnimMontage 对象创建的真正播放的 Montage 实例

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cd966486d276786",
+        "id": "e776328b4c08219a",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5cac0220c9bcf9",
+            "id": "8b7938d48579d0ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/序列化.md",
-                "mode": "source",
+                "file": "卡片盒/Assets 资产.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/序列化.md",
+                "file": "卡片盒/Assets 资产.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/序列化.md",
+                "file": "卡片盒/Assets 资产.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒/序列化.md"
+                "file": "卡片盒/Assets 资产.md"
               }
             }
           }
@@ -146,14 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc5cac0220c9bcf9",
+  "active": "8b7938d48579d0ca",
   "lastOpenFiles": [
+    "卡片盒/游戏开发.md",
+    "卡片盒/资源加载.md",
+    "卡片盒/Assets 资产.md",
     "卡片盒/BehaviorTree 行为树.md",
-    "卡片盒/序列化.md",
+    "卡片盒/AnimMontage 动画蒙太奇.md",
     "卡片盒/函数式编程.md",
-    "卡片盒/UFUNCTION 的参数要求.md",
+    "卡片盒/Slua 框架总结.md",
+    "卡片盒/UFunction 的参数要求.md",
+    "卡片盒/序列化.md",
     "卡片盒/Texture Graph.md",
-    "卡片盒/SLUA 框架总结.md",
     "卡片盒/SkeletalMeshComponent 动画蓝图更新.md",
     "卡片盒/Shader 的简单分类.md",
     "卡片盒/PBR 基于物理的渲染.md",
@@ -165,16 +169,12 @@
     "卡片盒/ESlateVisibility.md",
     "卡片盒/Custom Node 技巧.md",
     "卡片盒/Gameplay 调试器.md",
-    "卡片盒/游戏开发.md",
     "卡片盒/蓝图调试器.md",
     "卡片盒/FlipFlop.md",
     "卡片盒/蓝图.md",
     "卡片盒/常用的材质编辑器节点.md",
     "卡片盒/UnrealEngine 虚幻引擎.md",
-    "卡片盒/Currying 柯里化.md",
-    "卡片盒/AI.md",
     "附件/SLUA 框架总结.png",
-    "模板/Dictionary.md",
     "附件/动画蒙太奇 AnimMontage_1.png",
     "附件/动画蒙太奇 AnimMontage_2.png",
     "附件/动画更新.png",
