@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1aaf48a0d7001256",
+        "id": "8cd966486d276786",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac79b75878e43b0",
+            "id": "dc5cac0220c9bcf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "卡片盒/序列化.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "223f8abb13012281",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "卡片盒/序列化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "卡片盒/序列化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "卡片盒/序列化.md"
+              }
             }
           }
         ]
@@ -140,40 +146,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ac79b75878e43b0",
+  "active": "dc5cac0220c9bcf9",
   "lastOpenFiles": [
-    "卡片盒/游戏开发.md",
-    "卡片盒/AI.md",
-    "卡片盒/Gameplay 调试器.md",
-    "卡片盒/编程.md",
-    "卡片盒/蓝图.md",
-    "模板/Moc.md",
-    "模板/Idea.md",
-    "模板/Dictionary.md",
+    "卡片盒/BehaviorTree 行为树.md",
+    "卡片盒/序列化.md",
+    "卡片盒/函数式编程.md",
     "卡片盒/UFUNCTION 的参数要求.md",
-    "卡片盒/虚幻引擎.md",
-    "卡片盒/资源加载.md",
-    "卡片盒/ActionRPG.md",
-    "卡片盒/ActionRPG 中的 GameplayEffect 流程.md",
-    "卡片盒/ActionRPG 中的连招系统.md",
-    "卡片盒/材质.md",
-    "参考文献/一些收藏的网站.md",
-    "卡片盒/备忘录.md",
+    "卡片盒/Texture Graph.md",
+    "卡片盒/SLUA 框架总结.md",
+    "卡片盒/SkeletalMeshComponent 动画蓝图更新.md",
+    "卡片盒/Shader 的简单分类.md",
+    "卡片盒/PBR 基于物理的渲染.md",
+    "卡片盒/Navmesh.md",
+    "卡片盒/Material 101.md",
     "卡片盒/GetOwner 和 GetOuter.md",
-    "卡片盒/蓝图调试器.md",
-    "卡片盒/GC.md",
-    "卡片盒/采样.md",
-    "卡片盒/NavMesh.md",
     "卡片盒/GCObject.md",
-    "卡片盒/柯里化 Currying.md",
-    "卡片盒/动画蓝图更新 SkeletalMeshComponent.md",
     "卡片盒/Event 和 Function.md",
+    "卡片盒/ESlateVisibility.md",
+    "卡片盒/Custom Node 技巧.md",
+    "卡片盒/Gameplay 调试器.md",
+    "卡片盒/游戏开发.md",
+    "卡片盒/蓝图调试器.md",
+    "卡片盒/FlipFlop.md",
+    "卡片盒/蓝图.md",
+    "卡片盒/常用的材质编辑器节点.md",
+    "卡片盒/UnrealEngine 虚幻引擎.md",
+    "卡片盒/Currying 柯里化.md",
+    "卡片盒/AI.md",
+    "附件/SLUA 框架总结.png",
+    "模板/Dictionary.md",
     "附件/动画蒙太奇 AnimMontage_1.png",
     "附件/动画蒙太奇 AnimMontage_2.png",
     "附件/动画更新.png",
     "参考文献",
     "附件/PBR 的材质属性.png",
-    "附件/SLUA 框架总结.png",
     "附件/GameplayEvent.png",
     "附件/AnimMontage_1.png",
     "附件/AnimMontage_2.png",

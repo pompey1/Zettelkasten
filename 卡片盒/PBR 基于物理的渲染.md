@@ -1,6 +1,6 @@
 202406272152
 Status: #dictionary 
-Tags: [[材质]]
+Tags: [[图形学]]
 # 光照类别
 入射光可以分为 Direct 和 Indrect 两种
 出射光可以分为 Specular 和 Diffuse 两种
@@ -13,7 +13,7 @@ Tags: [[材质]]
 # Light Properties
 - Direct Diffuse
 - Indirect Diffuse
-- Direct Specular\
+- Direct Specular
 - Indirect Specular
 - Shadows
 - Ambient Occulusion
