@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/Gameplay 调试器.md",
+                "file": "卡片盒/蓝图.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/Gameplay 调试器.md",
+                "file": "卡片盒/蓝图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/Gameplay 调试器.md",
+                "file": "卡片盒/蓝图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒/Gameplay 调试器.md"
+                "file": "卡片盒/蓝图.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "5ac79b75878e43b0",
   "lastOpenFiles": [
+    "卡片盒/AssetRegistry 资产注册表.md",
+    "卡片盒/Assets 资产.md",
+    "卡片盒/AI.md",
+    "卡片盒/Gameplay 调试器.md",
     "卡片盒/蓝图调试器.md",
     "卡片盒/采样.md",
     "卡片盒/编程.md",
@@ -173,14 +177,10 @@
     "卡片盒/CustomNode 技巧.md",
     "卡片盒/Currying 柯里化.md",
     "卡片盒/BehaviorTree 行为树.md",
-    "卡片盒/Assets 资产.md",
-    "卡片盒/AssetRegistry 资产注册表.md",
     "卡片盒/SLUA 框架总结.md",
     "卡片盒/游戏开发.md",
     "卡片盒/蓝图.md",
     "卡片盒/柯里化 Currying.md",
-    "卡片盒/动态链接库的原理.md",
-    "卡片盒/动画蒙太奇 AnimMontage.md",
     "附件/动画更新.png",
     "参考文献",
     "卡片盒/附件/企业微信截图_17186204487874 1.png",
