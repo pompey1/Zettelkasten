@@ -1,6 +1,6 @@
 202406302309
 Status: #idea
-Tags: [[材质]]
+Tags: [[Material 材质]]
 ## Distortion Material
 扰乱材质，可以做一些热空气扭曲之类的效果
 ## Flip Book

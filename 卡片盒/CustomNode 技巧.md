@@ -1,6 +1,6 @@
 202406291936
 Status: #idea
-Tags: [[材质]]
+Tags: [[Material 材质]]
 # CustomNode 技巧
 在材质编辑器中输入
 ``` c++
