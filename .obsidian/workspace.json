@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/Serialize 序列化.md",
+                "file": "卡片盒/atomic 原子操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/Serialize 序列化.md",
+                "file": "卡片盒/atomic 原子操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/Serialize 序列化.md",
+                "file": "卡片盒/atomic 原子操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒/Serialize 序列化.md"
+                "file": "卡片盒/atomic 原子操作.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3dfeaa768d42f0c6",
   "lastOpenFiles": [
+    "卡片盒/Serialize 序列化.md",
+    "卡片盒/atomic 原子操作.md",
     "卡片盒/GC.md",
     "卡片盒/friend 友元.md",
     "卡片盒/游戏开发.md",
@@ -172,8 +174,6 @@
     "卡片盒/Currying 柯里化.md",
     "卡片盒/BehaviorTree 行为树.md",
     "卡片盒/AnimCurve 动画曲线.md",
-    "卡片盒/AnimMontage 动画蒙太奇.md",
-    "模板/Dictionary.md",
     "附件/SLUA 框架总结.png",
     "附件/PBR 基于物理的渲染.png",
     "附件/AnimMontage 动画蒙太奇_2.png",
