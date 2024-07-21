@@ -1,6 +1,6 @@
 202407190011
 Status: #idea
-Tags: [[C++]]
+Tags: [[Effective C++]]
 # 视 C++ 为一个语言联邦
 C++ 支持多多种范式
 1. 面向过程（C）

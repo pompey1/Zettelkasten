@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e172a87fa28228b",
+        "id": "e1a18ef6426d91a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfeaa768d42f0c6",
+            "id": "2e515a7f09bc536e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/GDC2019 战神 4 的风力场模拟.md",
+                "file": "卡片盒/用 const、enum、inline 代替宏.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/GDC2019 战神 4 的风力场模拟.md",
+                "file": "卡片盒/用 const、enum、inline 代替宏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/GDC2019 战神 4 的风力场模拟.md",
+                "file": "卡片盒/用 const、enum、inline 代替宏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒/GDC2019 战神 4 的风力场模拟.md"
+                "file": "卡片盒/用 const、enum、inline 代替宏.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3dfeaa768d42f0c6",
+  "active": "2e515a7f09bc536e",
   "lastOpenFiles": [
-    "卡片盒/视 C++ 为一个语言联邦.md",
+    "卡片盒/尽可能使用 const.md",
+    "卡片盒/C++.md",
+    "卡片盒/C++ 初始化变量.md",
+    "卡片盒/Effective C++.md",
     "卡片盒/用 const、enum、inline 代替宏.md",
+    "卡片盒/friend 友元.md",
     "卡片盒/声明与定义.md",
+    "卡片盒/视 C++ 为一个语言联邦.md",
+    "卡片盒/汇总 - 编辑器技巧.md",
+    "卡片盒/UnrealEngine 虚幻引擎.md",
+    "卡片盒/GDC2019 战神 4 的风力场模拟.md",
     "卡片盒/Copy Constructor 拷贝构造函数.md",
     "卡片盒/远程桌面连接.md",
-    "卡片盒/GDC2019 战神 4 的风力场模拟.md",
     "卡片盒/元素移动.md",
     "卡片盒/游戏开发.md",
     "卡片盒/Serialize 序列化.md",
@@ -164,17 +171,10 @@
     "卡片盒/蓝图.md",
     "卡片盒/拉伸区思维.md",
     "卡片盒/汇总 - 材质编辑器节点.md",
-    "卡片盒/汇总 - 编辑器技巧.md",
     "卡片盒/函数式编程.md",
     "卡片盒/点线面的渲染.md",
     "卡片盒/采样.md",
     "卡片盒/编程.md",
-    "卡片盒/动态链接库的原理.md",
-    "卡片盒/汇总 - 蓝图常用节点.md",
-    "卡片盒/TWeakObjectPtr.md",
-    "卡片盒/Texture Graph.md",
-    "卡片盒/Slua 框架总结.md",
-    "卡片盒/C++ 初始化变量.md",
     "附件/PBR 基于物理的渲染.png",
     "附件/AnimMontage 动画蒙太奇_2.png",
     "附件/ActionRPG 中的 GameplayEffect 流程.png",
