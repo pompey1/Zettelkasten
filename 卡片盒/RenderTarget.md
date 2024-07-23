@@ -34,7 +34,7 @@ ComputeNormal 材质实例用来绘制法线 RenderTarget，HeightSim 材质用�
 **Tick**
 1. 判断玩家碰撞（按下不表）
 2. 做了 FixedUpdate 处理，与帧率实现了分离
-3. 创建一个 HeightSim 材质实例，将之前两张位移 RenderTaget 设置为他的参数，将这个材质绘制当前活跃的位移 RenderTarget 上，这里不是直接使用的 DrawMaterialToRenderTarget 节点，而是采用了 BeginDrawCanvasToRenderTarget->DrawMaterial->EndDrawCanvasToRenderTarget，这样可以防止下面的海浪冲到上面去
+3. 创建一个 HeightSim 材质实例，将之前两张位移 RenderTaget 设置为他的参数，将这个材质绘制当前活跃的位移 RenderTarget 上，这里不是直接使用的 DrawMaterialToRenderTarget 节点，而是采用了 BeginDrawCanvasToRenderTarget->DrawMaterial->EndDrawCanvasToRenderTarget
 ![[RenderTarget_2.png]]
 5. 创建一个 ComputeNormal 材质实例，将当前活跃的位移 RenderTarget （已经计算了海浪模拟的 RenderTarget）设置为这个材质的参数，将这个材质绘制到法线 RenderTarget 上，最后将当前活跃的位移 RendertTarget 设置为主材质的参数
 ### TA侧
