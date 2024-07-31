@@ -11,7 +11,7 @@ Navmesh 在引擎中的 Gameplay 的应用需要两个 Actor: 1. Navmesh Bounds 
 1. 在大纲中的 Actor Detail 面板和 Project Setting 中都可以设置 NavMesh Agents 信息（对于寻路对象的描述，包括碰撞范围等），你可以设置多个 NavMehs Agents 并一对一烘焙对应的 NavMesh 节点
 
 # 底层实现
-涉及模块包括 AIModule、NavigationSystem、Navmesh (3rd Recast 库)
+涉及模块包括 AIModule、NavigationSystem、Navmesh (RecastNavmesh)
 
 ---
 # References
