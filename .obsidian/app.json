@@ -2,5 +2,6 @@
   "attachmentFolderPath": "附件",
   "newFileLocation": "folder",
   "newFileFolderPath": "卡片盒",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

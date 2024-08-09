@@ -1,18 +1,16 @@
 202407271618
 Status: #moc
-Tags: 
+Tags:  [[Audio 音频]]
 # Wwise
 
-## 设计架构
+## 版本更替
 
-## 音效师侧
-Event -> Action -> Audio
-
-## 程序侧
-从 Wwise Browser 中拖入 Event，播放时候指定此 Event 作为资产
-
+## UAkAudioEvent
+在 2019 版本中 UAkAudioEvent 只包含了 LoadBank 一个函数，而在 2024 版本中 UAkAudioEvent 加入了多个触发 Event 的接口
+## UAkAudioDevice
 
 
 
 ---
 # References
+[UE 集成 WWise：概念与代码分析 | 虚幻社区知识库 (ue5wiki.com)](https://ue5wiki.com/wiki/9809/#WWise%20%E8%B5%84%E6%BA%90)
