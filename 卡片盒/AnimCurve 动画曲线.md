@@ -1,6 +1,6 @@
 202407131844
 Status: #idea
-Tags: [[Animation 动画]] [[Material 材质]] [[Camera 相机]] [[ALS Advanced Locomotion System 高级运动系统]]
+Tags: [[Animation 动画]] [[Material 材质]]  [[ALS Advanced Locomotion System 高级运动系统]]
 # AnimCurve 动画曲线
 - AnimCurve 存储在骨架上，可以直接在动画序列上添加
 - Type 表明此曲线是否用于 MorphTarget 或 Material

@@ -1,6 +1,6 @@
 202407221058
 Status: #idea
-Tags: [[图形学]]
+Tags: [[Material 材质]]
 # RenderTarget
 RenderTarget 没有特殊说明一般指的是 TextureRenderTarget2D 资产，UE 中还提供了很多额外的 RenderTarget 类型，包括 CubeRenderTarget（之后考虑用这个模拟风力场）
 # ContentExample 中的示例 RenderToTarget

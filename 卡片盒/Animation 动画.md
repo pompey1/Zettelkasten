@@ -10,5 +10,10 @@ Tags:
 4. IK 重定向 IK Retargeter，基于 IK Rig 的重定向系统
 5. 后处理动画蓝图
 
+# Tips & Tricks
+AnimSequence 的某一帧可以导出为 Posture 或者 StaticMesh 资产
+
+按住 **shift** 再打开动画资产可以避免上一个打开的动画资产被覆盖
+
 ---
 # References

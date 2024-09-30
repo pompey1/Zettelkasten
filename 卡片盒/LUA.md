@@ -1,7 +1,7 @@
-202409301504
-Status: #idea
+202409301507
+Status: #moc
 Tags: [[Program 编程]]
-# C++
+# LUA
 
 ---
 # References

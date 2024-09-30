@@ -1,11 +1,6 @@
 202409291337
 Status: #idea
-Tags: [[]]
-# MVVM
-
-# UE 基础设施
-1. 反射
-2. 委托
+Tags: [[UMG]]
 # 双向绑定的实现
 ## ViewModel -> View
 继承自 UMVVMViewModelBase 的类（已经继承 INotifyFieldValueChanged），实现 ViewModel 到 View 的绑定
