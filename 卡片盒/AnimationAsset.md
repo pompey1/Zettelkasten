@@ -1,6 +1,6 @@
 202407141504
 Status: #idea
-Tags: [[Assets 资产]] [[Animation 动画]]
+Tags: [[Animation 动画]]
 # AnimationAsset
 影视动画项目中常用的动画资产类型
 1. 骨骼动画 SkeletalMesh
