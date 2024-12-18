@@ -1,6 +1,6 @@
 202407091132
 Status: #moc
-Tags:
+Tags: [[UE C++]]
 # Assets 资产
 所有 uasset 后缀的文件对于 ue 来说都可以视为资产，umap 是“更高级”的 Primary Asset（主资产）
 # Primary Asset 和 Secondary Asset

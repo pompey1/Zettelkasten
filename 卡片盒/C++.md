@@ -1,5 +1,5 @@
 202409301504
-Status: #idea
+Status: #moc 
 Tags: [[Program 编程]]
 # C++
 

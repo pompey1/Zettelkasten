@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "卡片盒",
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }
