@@ -1,6 +1,6 @@
 202406190012
 Status: #idea 
-Tags: [[GAS]] [[Animation 动画]] [[ActionRPG]]
+Tags: [[GAS 的生命周期相关]] [[Animation 动画]] [[ActionRPG]]
 # ActionRPG 中的连招系统
 
 1. 一个 Ability 对应一整套完整的连招

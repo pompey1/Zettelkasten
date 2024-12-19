@@ -1,6 +1,6 @@
 202406212212
 Status: #idea
-Tags: [[GAS]] 
+Tags: [[GAS 的生命周期相关]] 
 # GameplayEvent
 GAS 原生提供了一套 GameplayEvent 的回调体系
 
