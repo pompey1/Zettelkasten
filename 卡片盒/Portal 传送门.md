@@ -17,6 +17,9 @@ Tags: [[编程挑战]]
 将 Aspect Ratio Axis Constraint 设置为 AspectRatio_MajorAxisFOV
 假设你在看一幅画，无论画框的宽度和高度如何变化，画的较长边始终保持不变，画的较短边会根据画框的变化进行拉伸或压缩
 
+# 射线检测坑点
+Plane 无法用来碰撞检测和射线检测，因为它本身只有一个面，无法正常生成 PhysicalAsset
+
 
 ---
 # References
